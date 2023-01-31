@@ -10,9 +10,8 @@
 <br>
 
 
-<p align="center"><b>Exploring</b></p>
+<p align="center">📚Exploring</p>
 <br>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,golang,rust,aws,actix,nodejs"/></a></p>
 <br>
-<hr>
-<p align="center"><a href="https://akandeel.com">akandeel.com</a></p>
+<p align="center">Vist me at <a href="https://akandeel.com">akandeel.com</a></p>
