@@ -4,9 +4,7 @@
 <p align="center"><i>"I’m happy to share what I can, because I’m in it for the love of programming." - John Carmack</i></p>
 <p align="center">Software Engineer | Backend Developer | Fullstack Developer </p>
 <p align="center">🌍 Egypt </p>
-<hr>
 
-<p align="center"><b>Experienced in</b></p>
 <br>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,flask,fastapi,jquery,nginx,git,docker,kubernetes,postgres,redis,gitlab"/></a></p>
 <br>
@@ -16,3 +14,5 @@
 <br>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,golang,rust,aws,actix,nodejs"/></a></p>
 <br>
+<hr>
+<p align="center"><a href="https://akandeel.com">akandeel.com</a></p>
