@@ -14,4 +14,4 @@
 <br>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,golang,rust,aws,actix,nodejs"/></a></p>
 <br>
-<p align="center">Vist me at <a href="https://akandeel.com">akandeel.com</a></p>
+<p align="center">🌐 <a href="https://akandeel.com">akandeel.com</a></p>
