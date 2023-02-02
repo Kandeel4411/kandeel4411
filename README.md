@@ -9,7 +9,7 @@
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,flask,fastapi,jquery,nginx,git,docker,kubernetes,postgres,redis,gitlab"/></a></p>
 <br>
 
-<p align="center"> <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kandeel4411&theme=dracula"/></a> --> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandeel4411&langs_count=8&layout=compact&theme=dracula"/></a></p>
+<p align="center"> <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kandeel4411&theme=dracula"/></a> --> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandeel4411&langs_count=8&layout=compact&theme=dracula&hide=php,java"/></a></p>
 <p align="center"></p>
 
 
