@@ -2,7 +2,7 @@
 
 
 <p align="center"><i>"I’m happy to share what I can, because I’m in it for the love of programming." - John Carmack</i></p>
-<p align="center">Software Engineer | Backend Developer | Fullstack Developer </p>
+<p align="center">Software Engineer | Backend Developer </p>
 <p align="center">🌍 Egypt </p>
 
 <br>
