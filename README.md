@@ -6,7 +6,8 @@ Feel free to checkout my repositories and projects - I am always up for some cod
 
 <br>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kandeel4411&theme=dracula"/></a> --> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandeel4411&langs_count=8&layout=compact&theme=dracula&hide=php,java"/></a>
-
+<br>
+<br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,golang,rust,aws,actix,nodejs"/></a>
 
 📚 Exploring </>
