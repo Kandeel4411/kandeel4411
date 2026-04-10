@@ -1,11 +1,24 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=387AF7FF&center=true&width=410&height=100&lines=Software+Engineer;Backend+Developer;Fullstack+Developer" alt="Typing SVG" /></a></p>
+  <div align="center">
 
-<h3 align="center">Hello there, I'm <a href="https://www.akandil.com/#about">Abdelrahman Kandil</a></h3>
-<p align="center">Looking for maintainers? I'm always eager to collaborate on interesting projects and contribute to the open-source community. You can connect with me on <a href="https://www.linkedin.com/in/abdelrahmankandil/">LinkedIn</a> or reach out to me via <a href="mailto:akandeeldev@outlook.com">email</a>.</p>
-<p align="center"><i>"I’m happy to share what I can, because I’m in it for the love of programming." - John Carmack</i></p>
+  <a href="https://git.io/typing-svg"><img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=387AF7&center=true&width=410&height=80&lines=Software+Engineer;Backend+Developer;Open+Source+Contributor" alt="Typing SVG" /></a>
 
-<br>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,javascript,html,css,angular,django,flask,fastapi,nginx,git,docker,kubernetes,postgres,redis,gitlab"/></a></p>
-<br>
+  ### Hi, I'm [Abdelrahman Kandil](https://www.akandil.com)
 
-<p align="center">🌐 <a href="https://akandil.com">akandil.com</a></p>
+  Open to collaborating on interesting projects and contributing to open source.
+
+  <br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmankandil/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akandeeldev@outlook.com)
+  [![Website](https://img.shields.io/badge/Website-387AF7?style=flat-square&logo=safari&logoColor=white)](https://akandil.com)
+
+  <br>
+
+  ~
+  
+  <br>
+  
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,fastapi,django,flask,docker,kubernetes,nginx,postgres,redis,git"/></a>
+
+  </div>
